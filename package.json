@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-42matters",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "42matters MCP — wraps the 42matters App Market Data API (42matters.com)",
   "type": "module",
   "main": "src/index.ts",
@@ -26,7 +26,7 @@
     "@cloudflare/workers-types": "^4.20260405.1"
   },
   "pipeworx": {
-    "sourceHash": "v1-d2b9907a23a3383efa7fd73d669d0b93556b562336d47a3511c170ea85f70627",
-    "sourceCommit": "60f04b68c347e970c6be94a53439d1364061fc06"
+    "sourceHash": "v1-51967aac420264f4d00c08930c5bd253bafbb9e9bb42c28cb1d62108d2af1a18",
+    "sourceCommit": "dca20ba6e13a9aa1c9f2918fc2ddaffe4cc30e5c"
   }
 }
