@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-42matters",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "42matters MCP — wraps the 42matters App Market Data API (42matters.com)",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "42matters",
     "gatewaySlug": "42matters",
-    "sourceHash": "v1-8221a3caf3ba83512a3bfb35e12d04c9efaa1cf20185d4957111e1fda36dff61",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-86d9dfb194d75d8e6c027bd11dc773373e0ebd54b36d17e753e168290a0a5efc",
+    "sourceCommit": "aef970216f5309cdd22a27ddfc275e472aaadac1"
   }
 }
